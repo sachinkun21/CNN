@@ -1,2 +1,1 @@
-Cnn
-Tut
+Cnn papers and implementation
