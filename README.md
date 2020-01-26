@@ -1,2 +1,2 @@
-Cnn papers and implementation in keras using
-Tensor flow backend
+CNN papers and implementation in keras using
+Tensor flow backend.
